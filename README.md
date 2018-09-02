@@ -1,5 +1,5 @@
 
-Release 5.1 on 1st Sep after integrating with Jenkins (pipeline)
+Release 6.0 on 2nd Sep after integrating with Jenkins (pipeline)
 
 
 ********************************
